@@ -1,0 +1,2930 @@
+[
+  {
+    "name": "Åland Islands",
+    "capital": "Mariehamn",
+    "population": 28875,
+    "flag": "https://flagcdn.com/ax.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      60.116667,
+      19.9
+    ]
+  },
+  {
+    "name": "Albania",
+    "capital": "Tirana",
+    "population": 2837743,
+    "flag": "https://flagcdn.com/al.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      41,
+      20
+    ]
+  },
+  {
+    "name": "Algeria",
+    "capital": "Algiers",
+    "population": 44700000,
+    "flag": "https://flagcdn.com/dz.svg",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "latlng": [
+      28,
+      3
+    ]
+  },
+  {
+    "name": "American Samoa",
+    "capital": "Pago Pago",
+    "population": 55197,
+    "flag": "https://flagcdn.com/as.svg",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [
+      -14.33333333,
+      -170
+    ]
+  },
+  {
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "population": 77265,
+    "flag": "https://flagcdn.com/ad.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      42.5,
+      1.5
+    ]
+  },
+  {
+    "name": "Angola",
+    "capital": "Luanda",
+    "population": 32866268,
+    "flag": "https://flagcdn.com/ao.svg",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [
+      -12.5,
+      18.5
+    ]
+  },
+  {
+    "name": "Anguilla",
+    "capital": "The Valley",
+    "population": 13452,
+    "flag": "https://flagcdn.com/ai.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      18.25,
+      -63.16666666
+    ]
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "population": 97928,
+    "flag": "https://flagcdn.com/ag.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      17.05,
+      -61.8
+    ]
+  },
+  {
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 45376763,
+    "flag": "https://flagcdn.com/ar.svg",
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [
+      -34,
+      -64
+    ]
+  },
+  {
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "population": 2963234,
+    "flag": "https://flagcdn.com/am.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      40,
+      45
+    ]
+  },
+  {
+    "name": "Aruba",
+    "capital": "Oranjestad",
+    "population": 106766,
+    "flag": "https://flagcdn.com/aw.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      12.5,
+      -69.96666666
+    ]
+  },
+  {
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "flag": "https://flagcdn.com/au.svg",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "latlng": [
+      -27,
+      133
+    ]
+  },
+  {
+    "name": "Austria",
+    "capital": "Vienna",
+    "population": 8917205,
+    "flag": "https://flagcdn.com/at.svg",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "latlng": [
+      47.33333333,
+      13.33333333
+    ]
+  },
+  {
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "population": 10110116,
+    "flag": "https://flagcdn.com/az.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      40.5,
+      47.5
+    ]
+  },
+  {
+    "name": "Bahamas",
+    "capital": "Nassau",
+    "population": 393248,
+    "flag": "https://flagcdn.com/bs.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      24.25,
+      -76
+    ]
+  },
+  {
+    "name": "Bahrain",
+    "capital": "Manama",
+    "population": 1701583,
+    "flag": "https://flagcdn.com/bh.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      26,
+      50.55
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "population": 164689383,
+    "flag": "https://flagcdn.com/bd.svg",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [
+      24,
+      90
+    ]
+  },
+  {
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "population": 287371,
+    "flag": "https://flagcdn.com/bb.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      13.16666666,
+      -59.53333333
+    ]
+  },
+  {
+    "name": "Belarus",
+    "capital": "Minsk",
+    "population": 9398861,
+    "flag": "https://flagcdn.com/by.svg",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [
+      53,
+      28
+    ]
+  },
+  {
+    "name": "Belgium",
+    "capital": "Brussels",
+    "population": 11555997,
+    "flag": "https://flagcdn.com/be.svg",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "latlng": [
+      50.83333333,
+      4
+    ]
+  },
+  {
+    "name": "Belize",
+    "capital": "Belmopan",
+    "population": 397621,
+    "flag": "https://flagcdn.com/bz.svg",
+    "region": "Americas",
+    "subregion": "Central America",
+    "latlng": [
+      17.25,
+      -88.75
+    ]
+  },
+  {
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "population": 12123198,
+    "flag": "https://flagcdn.com/bj.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      9.5,
+      2.25
+    ]
+  },
+  {
+    "name": "Bermuda",
+    "capital": "Hamilton",
+    "population": 63903,
+    "flag": "https://flagcdn.com/bm.svg",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "latlng": [
+      32.33333333,
+      -64.75
+    ]
+  },
+  {
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "population": 771612,
+    "flag": "https://flagcdn.com/bt.svg",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [
+      27.5,
+      90.5
+    ]
+  },
+  {
+    "name": "Bolivia (Plurinational State of)",
+    "capital": "Sucre",
+    "population": 11673029,
+    "flag": "https://flagcdn.com/bo.svg",
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [
+      -17,
+      -65
+    ]
+  },
+  {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "capital": "Kralendijk",
+    "population": 17408,
+    "flag": "https://flagcdn.com/bq.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      12.15,
+      -68.266667
+    ]
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "population": 3280815,
+    "flag": "https://flagcdn.com/ba.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      44,
+      18
+    ]
+  },
+  {
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "population": 2351625,
+    "flag": "https://flagcdn.com/bw.svg",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "latlng": [
+      -22,
+      24
+    ]
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": 212559409,
+    "flag": "https://flagcdn.com/br.svg",
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [
+      -10,
+      -55
+    ]
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "capital": "Diego Garcia",
+    "population": 3000,
+    "flag": "https://flagcdn.com/io.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      -6,
+      71.5
+    ]
+  },
+  {
+    "name": "Virgin Islands (British)",
+    "capital": "Road Town",
+    "population": 30237,
+    "flag": "https://flagcdn.com/vg.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      18.431383,
+      -64.62305
+    ]
+  },
+  {
+    "name": "Virgin Islands (U.S.)",
+    "capital": "Charlotte Amalie",
+    "population": 106290,
+    "flag": "https://flagcdn.com/vi.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      18.34,
+      -64.93
+    ]
+  },
+  {
+    "name": "Brunei Darussalam",
+    "capital": "Bandar Seri Begawan",
+    "population": 437483,
+    "flag": "https://flagcdn.com/bn.svg",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [
+      4.5,
+      114.66666666
+    ]
+  },
+  {
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "population": 6927288,
+    "flag": "https://flagcdn.com/bg.svg",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [
+      43,
+      25
+    ]
+  },
+  {
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "population": 20903278,
+    "flag": "https://flagcdn.com/bf.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      13,
+      -2
+    ]
+  },
+  {
+    "name": "Burundi",
+    "capital": "Gitega",
+    "population": 11890781,
+    "flag": "https://flagcdn.com/bi.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      -3.5,
+      30
+    ]
+  },
+  {
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "population": 16718971,
+    "flag": "https://flagcdn.com/kh.svg",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [
+      13,
+      105
+    ]
+  },
+  {
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "population": 26545864,
+    "flag": "https://flagcdn.com/cm.svg",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [
+      6,
+      12
+    ]
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": 38005238,
+    "flag": "https://flagcdn.com/ca.svg",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "latlng": [
+      60,
+      -95
+    ]
+  },
+  {
+    "name": "Cabo Verde",
+    "capital": "Praia",
+    "population": 555988,
+    "flag": "https://flagcdn.com/cv.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      16,
+      -24
+    ]
+  },
+  {
+    "name": "Cayman Islands",
+    "capital": "George Town",
+    "population": 65720,
+    "flag": "https://flagcdn.com/ky.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      19.5,
+      -80.5
+    ]
+  },
+  {
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "population": 4829764,
+    "flag": "https://flagcdn.com/cf.svg",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [
+      7,
+      21
+    ]
+  },
+  {
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "population": 16425859,
+    "flag": "https://flagcdn.com/td.svg",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [
+      15,
+      19
+    ]
+  },
+  {
+    "name": "Chile",
+    "capital": "Santiago",
+    "population": 19116209,
+    "flag": "https://flagcdn.com/cl.svg",
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [
+      -30,
+      -71
+    ]
+  },
+  {
+    "name": "China",
+    "capital": "Beijing",
+    "population": 1402112000,
+    "flag": "https://flagcdn.com/cn.svg",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "latlng": [
+      35,
+      105
+    ]
+  },
+  {
+    "name": "Christmas Island",
+    "capital": "Flying Fish Cove",
+    "population": 2072,
+    "flag": "https://flagcdn.com/cx.svg",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "latlng": [
+      -10.5,
+      105.66666666
+    ]
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "capital": "West Island",
+    "population": 550,
+    "flag": "https://flagcdn.com/cc.svg",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "latlng": [
+      -12.5,
+      96.83333333
+    ]
+  },
+  {
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "population": 50882884,
+    "flag": "https://flagcdn.com/co.svg",
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [
+      4,
+      -72
+    ]
+  },
+  {
+    "name": "Comoros",
+    "capital": "Moroni",
+    "population": 869595,
+    "flag": "https://flagcdn.com/km.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      -12.16666666,
+      44.25
+    ]
+  },
+  {
+    "name": "Congo",
+    "capital": "Brazzaville",
+    "population": 5518092,
+    "flag": "https://flagcdn.com/cg.svg",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [
+      -1,
+      15
+    ]
+  },
+  {
+    "name": "Congo (Democratic Republic of the)",
+    "capital": "Kinshasa",
+    "population": 89561404,
+    "flag": "https://flagcdn.com/cd.svg",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [
+      0,
+      25
+    ]
+  },
+  {
+    "name": "Cook Islands",
+    "capital": "Avarua",
+    "population": 18100,
+    "flag": "https://flagcdn.com/ck.svg",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [
+      -21.23333333,
+      -159.76666666
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "capital": "San José",
+    "population": 5094114,
+    "flag": "https://flagcdn.com/cr.svg",
+    "region": "Americas",
+    "subregion": "Central America",
+    "latlng": [
+      10,
+      -84
+    ]
+  },
+  {
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "population": 4047200,
+    "flag": "https://flagcdn.com/hr.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      45.16666666,
+      15.5
+    ]
+  },
+  {
+    "name": "Cuba",
+    "capital": "Havana",
+    "population": 11326616,
+    "flag": "https://flagcdn.com/cu.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      21.5,
+      -80
+    ]
+  },
+  {
+    "name": "Curaçao",
+    "capital": "Willemstad",
+    "population": 155014,
+    "flag": "https://flagcdn.com/cw.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      12.116667,
+      -68.933333
+    ]
+  },
+  {
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "population": 1207361,
+    "flag": "https://flagcdn.com/cy.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      35,
+      33
+    ]
+  },
+  {
+    "name": "Czech Republic",
+    "capital": "Prague",
+    "population": 10698896,
+    "flag": "https://flagcdn.com/cz.svg",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "latlng": [
+      49.75,
+      15.5
+    ]
+  },
+  {
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "population": 5831404,
+    "flag": "https://flagcdn.com/dk.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      56,
+      10
+    ]
+  },
+  {
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "population": 988002,
+    "flag": "https://flagcdn.com/dj.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      11.5,
+      43
+    ]
+  },
+  {
+    "name": "Dominica",
+    "capital": "Roseau",
+    "population": 71991,
+    "flag": "https://flagcdn.com/dm.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      15.41666666,
+      -61.33333333
+    ]
+  },
+  {
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "population": 10847904,
+    "flag": "https://flagcdn.com/do.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      19,
+      -70.66666666
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "capital": "Quito",
+    "population": 17643060,
+    "flag": "https://flagcdn.com/ec.svg",
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [
+      -2,
+      -77.5
+    ]
+  },
+  {
+    "name": "Egypt",
+    "capital": "Cairo",
+    "population": 102334403,
+    "flag": "https://flagcdn.com/eg.svg",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "latlng": [
+      27,
+      30
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "population": 6486201,
+    "flag": "https://flagcdn.com/sv.svg",
+    "region": "Americas",
+    "subregion": "Central America",
+    "latlng": [
+      13.83333333,
+      -88.91666666
+    ]
+  },
+  {
+    "name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "population": 1402985,
+    "flag": "https://flagcdn.com/gq.svg",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [
+      2,
+      10
+    ]
+  },
+  {
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "population": 5352000,
+    "flag": "https://flagcdn.com/er.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      15,
+      39
+    ]
+  },
+  {
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "population": 1331057,
+    "flag": "https://flagcdn.com/ee.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      59,
+      26
+    ]
+  },
+  {
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "population": 114963583,
+    "flag": "https://flagcdn.com/et.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      8,
+      38
+    ]
+  },
+  {
+    "name": "Falkland Islands (Malvinas)",
+    "capital": "Stanley",
+    "population": 2563,
+    "flag": "https://flagcdn.com/fk.svg",
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [
+      -51.75,
+      -59
+    ]
+  },
+  {
+    "name": "Faroe Islands",
+    "capital": "Tórshavn",
+    "population": 48865,
+    "flag": "https://flagcdn.com/fo.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      62,
+      -7
+    ]
+  },
+  {
+    "name": "Fiji",
+    "capital": "Suva",
+    "population": 896444,
+    "flag": "https://flagcdn.com/fj.svg",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "latlng": [
+      -18,
+      175
+    ]
+  },
+  {
+    "name": "Finland",
+    "capital": "Helsinki",
+    "population": 5530719,
+    "flag": "https://flagcdn.com/fi.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      64,
+      26
+    ]
+  },
+  {
+    "name": "France",
+    "capital": "Paris",
+    "population": 67391582,
+    "flag": "https://flagcdn.com/fr.svg",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "latlng": [
+      46,
+      2
+    ]
+  },
+  {
+    "name": "French Guiana",
+    "capital": "Cayenne",
+    "population": 254541,
+    "flag": "https://flagcdn.com/gf.svg",
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [
+      4,
+      -53
+    ]
+  },
+  {
+    "name": "French Polynesia",
+    "capital": "Papeetē",
+    "population": 280904,
+    "flag": "https://flagcdn.com/pf.svg",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [
+      -15,
+      -140
+    ]
+  },
+  {
+    "name": "French Southern Territories",
+    "capital": "Port-aux-Français",
+    "population": 140,
+    "flag": "https://flagcdn.com/tf.svg",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "latlng": [
+      -49.25,
+      69.167
+    ]
+  },
+  {
+    "name": "Gabon",
+    "capital": "Libreville",
+    "population": 2225728,
+    "flag": "https://flagcdn.com/ga.svg",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [
+      -1,
+      11.75
+    ]
+  },
+  {
+    "name": "Gambia",
+    "capital": "Banjul",
+    "population": 2416664,
+    "flag": "https://flagcdn.com/gm.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      13.46666666,
+      -16.56666666
+    ]
+  },
+  {
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "population": 3714000,
+    "flag": "https://flagcdn.com/ge.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      42,
+      43.5
+    ]
+  },
+  {
+    "name": "Germany",
+    "capital": "Berlin",
+    "population": 83240525,
+    "flag": "https://flagcdn.com/de.svg",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "latlng": [
+      51,
+      9
+    ]
+  },
+  {
+    "name": "Ghana",
+    "capital": "Accra",
+    "population": 31072945,
+    "flag": "https://flagcdn.com/gh.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      8,
+      -2
+    ]
+  },
+  {
+    "name": "Gibraltar",
+    "capital": "Gibraltar",
+    "population": 33691,
+    "flag": "https://flagcdn.com/gi.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      36.13333333,
+      -5.35
+    ]
+  },
+  {
+    "name": "Greece",
+    "capital": "Athens",
+    "population": 10715549,
+    "flag": "https://flagcdn.com/gr.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      39,
+      22
+    ]
+  },
+  {
+    "name": "Greenland",
+    "capital": "Nuuk",
+    "population": 56367,
+    "flag": "https://flagcdn.com/gl.svg",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "latlng": [
+      72,
+      -40
+    ]
+  },
+  {
+    "name": "Grenada",
+    "capital": "St. George's",
+    "population": 112519,
+    "flag": "https://flagcdn.com/gd.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      12.11666666,
+      -61.66666666
+    ]
+  },
+  {
+    "name": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "population": 400132,
+    "flag": "https://flagcdn.com/gp.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      16.25,
+      -61.583333
+    ]
+  },
+  {
+    "name": "Guam",
+    "capital": "Hagåtña",
+    "population": 168783,
+    "flag": "https://flagcdn.com/gu.svg",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "latlng": [
+      13.46666666,
+      144.78333333
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "population": 16858333,
+    "flag": "https://flagcdn.com/gt.svg",
+    "region": "Americas",
+    "subregion": "Central America",
+    "latlng": [
+      15.5,
+      -90.25
+    ]
+  },
+  {
+    "name": "Guernsey",
+    "capital": "St. Peter Port",
+    "population": 62999,
+    "flag": "https://flagcdn.com/gg.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      49.46666666,
+      -2.58333333
+    ]
+  },
+  {
+    "name": "Guinea",
+    "capital": "Conakry",
+    "population": 13132792,
+    "flag": "https://flagcdn.com/gn.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      11,
+      -10
+    ]
+  },
+  {
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "population": 1967998,
+    "flag": "https://flagcdn.com/gw.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      12,
+      -15
+    ]
+  },
+  {
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "population": 786559,
+    "flag": "https://flagcdn.com/gy.svg",
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [
+      5,
+      -59
+    ]
+  },
+  {
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "population": 11402533,
+    "flag": "https://flagcdn.com/ht.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      19,
+      -72.41666666
+    ]
+  },
+  {
+    "name": "Vatican City",
+    "capital": "Vatican City",
+    "population": 451,
+    "flag": "https://flagcdn.com/va.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      41.9,
+      12.45
+    ]
+  },
+  {
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "population": 9904608,
+    "flag": "https://flagcdn.com/hn.svg",
+    "region": "Americas",
+    "subregion": "Central America",
+    "latlng": [
+      15,
+      -86.5
+    ]
+  },
+  {
+    "name": "Hungary",
+    "capital": "Budapest",
+    "population": 9749763,
+    "flag": "https://flagcdn.com/hu.svg",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "latlng": [
+      47,
+      20
+    ]
+  },
+  {
+    "name": "Hong Kong",
+    "capital": "City of Victoria",
+    "population": 7481800,
+    "flag": "https://flagcdn.com/hk.svg",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "latlng": [
+      22.25,
+      114.16666666
+    ]
+  },
+  {
+    "name": "Iceland",
+    "capital": "Reykjavík",
+    "population": 366425,
+    "flag": "https://flagcdn.com/is.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      65,
+      -18
+    ]
+  },
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "population": 1380004385,
+    "flag": "https://flagcdn.com/in.svg",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [
+      20,
+      77
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "population": 273523621,
+    "flag": "https://flagcdn.com/id.svg",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [
+      -5,
+      120
+    ]
+  },
+  {
+    "name": "Ivory Coast",
+    "capital": "Yamoussoukro",
+    "population": 26378275,
+    "flag": "https://flagcdn.com/ci.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      8,
+      -5
+    ]
+  },
+  {
+    "name": "Iran (Islamic Republic of)",
+    "capital": "Tehran",
+    "population": 83992953,
+    "flag": "https://flagcdn.com/ir.svg",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [
+      32,
+      53
+    ]
+  },
+  {
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "population": 40222503,
+    "flag": "https://flagcdn.com/iq.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      33,
+      44
+    ]
+  },
+  {
+    "name": "Ireland",
+    "capital": "Dublin",
+    "population": 4994724,
+    "flag": "https://flagcdn.com/ie.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      53,
+      -8
+    ]
+  },
+  {
+    "name": "Isle of Man",
+    "capital": "Douglas",
+    "population": 85032,
+    "flag": "https://flagcdn.com/im.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      54.25,
+      -4.5
+    ]
+  },
+  {
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "population": 9216900,
+    "flag": "https://flagcdn.com/il.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      31.5,
+      34.75
+    ]
+  },
+  {
+    "name": "Italy",
+    "capital": "Rome",
+    "population": 59554023,
+    "flag": "https://flagcdn.com/it.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      42.83333333,
+      12.83333333
+    ]
+  },
+  {
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "population": 2961161,
+    "flag": "https://flagcdn.com/jm.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      18.25,
+      -77.5
+    ]
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": 125836021,
+    "flag": "https://flagcdn.com/jp.svg",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "latlng": [
+      36,
+      138
+    ]
+  },
+  {
+    "name": "Jersey",
+    "capital": "Saint Helier",
+    "population": 100800,
+    "flag": "https://flagcdn.com/je.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      49.25,
+      -2.16666666
+    ]
+  },
+  {
+    "name": "Jordan",
+    "capital": "Amman",
+    "population": 10203140,
+    "flag": "https://flagcdn.com/jo.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      31,
+      36
+    ]
+  },
+  {
+    "name": "Kazakhstan",
+    "capital": "Nur-Sultan",
+    "population": 18754440,
+    "flag": "https://flagcdn.com/kz.svg",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "latlng": [
+      48,
+      68
+    ]
+  },
+  {
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "population": 53771300,
+    "flag": "https://flagcdn.com/ke.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      1,
+      38
+    ]
+  },
+  {
+    "name": "Kiribati",
+    "capital": "South Tarawa",
+    "population": 119446,
+    "flag": "https://flagcdn.com/ki.svg",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "latlng": [
+      1.41666666,
+      173
+    ]
+  },
+  {
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "population": 4270563,
+    "flag": "https://flagcdn.com/kw.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      29.5,
+      45.75
+    ]
+  },
+  {
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "population": 6591600,
+    "flag": "https://flagcdn.com/kg.svg",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "latlng": [
+      41,
+      75
+    ]
+  },
+  {
+    "name": "Lao People's Democratic Republic",
+    "capital": "Vientiane",
+    "population": 7275556,
+    "flag": "https://flagcdn.com/la.svg",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [
+      18,
+      105
+    ]
+  },
+  {
+    "name": "Latvia",
+    "capital": "Riga",
+    "population": 1901548,
+    "flag": "https://flagcdn.com/lv.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      57,
+      25
+    ]
+  },
+  {
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "population": 6825442,
+    "flag": "https://flagcdn.com/lb.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      33.83333333,
+      35.83333333
+    ]
+  },
+  {
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "population": 2142252,
+    "flag": "https://flagcdn.com/ls.svg",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "latlng": [
+      -29.5,
+      28.5
+    ]
+  },
+  {
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "population": 5057677,
+    "flag": "https://flagcdn.com/lr.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      6.5,
+      -9.5
+    ]
+  },
+  {
+    "name": "Libya",
+    "capital": "Tripoli",
+    "population": 6871287,
+    "flag": "https://flagcdn.com/ly.svg",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "latlng": [
+      25,
+      17
+    ]
+  },
+  {
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "population": 38137,
+    "flag": "https://flagcdn.com/li.svg",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "latlng": [
+      47.26666666,
+      9.53333333
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "population": 2794700,
+    "flag": "https://flagcdn.com/lt.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      56,
+      24
+    ]
+  },
+  {
+    "name": "Luxembourg",
+    "capital": "Luxembourg",
+    "population": 632275,
+    "flag": "https://flagcdn.com/lu.svg",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "latlng": [
+      49.75,
+      6.16666666
+    ]
+  },
+  {
+    "name": "North Macedonia",
+    "capital": "Skopje",
+    "population": 2083380,
+    "flag": "https://flagcdn.com/mk.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      41.83333333,
+      22
+    ]
+  },
+  {
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "population": 27691019,
+    "flag": "https://flagcdn.com/mg.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      -20,
+      47
+    ]
+  },
+  {
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "population": 19129955,
+    "flag": "https://flagcdn.com/mw.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      -13.5,
+      34
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "population": 32365998,
+    "flag": "https://flagcdn.com/my.svg",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [
+      2.5,
+      112.5
+    ]
+  },
+  {
+    "name": "Maldives",
+    "capital": "Malé",
+    "population": 540542,
+    "flag": "https://flagcdn.com/mv.svg",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [
+      3.25,
+      73
+    ]
+  },
+  {
+    "name": "Mali",
+    "capital": "Bamako",
+    "population": 20250834,
+    "flag": "https://flagcdn.com/ml.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      17,
+      -4
+    ]
+  },
+  {
+    "name": "Malta",
+    "capital": "Valletta",
+    "population": 525285,
+    "flag": "https://flagcdn.com/mt.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      35.83333333,
+      14.58333333
+    ]
+  },
+  {
+    "name": "Marshall Islands",
+    "capital": "Majuro",
+    "population": 59194,
+    "flag": "https://flagcdn.com/mh.svg",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "latlng": [
+      9,
+      168
+    ]
+  },
+  {
+    "name": "Martinique",
+    "capital": "Fort-de-France",
+    "population": 378243,
+    "flag": "https://flagcdn.com/mq.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      14.666667,
+      -61
+    ]
+  },
+  {
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "population": 4649660,
+    "flag": "https://flagcdn.com/mr.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      20,
+      -12
+    ]
+  },
+  {
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "population": 1265740,
+    "flag": "https://flagcdn.com/mu.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      -20.28333333,
+      57.55
+    ]
+  },
+  {
+    "name": "Mayotte",
+    "capital": "Mamoudzou",
+    "population": 226915,
+    "flag": "https://flagcdn.com/yt.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      -12.83333333,
+      45.16666666
+    ]
+  },
+  {
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "population": 128932753,
+    "flag": "https://flagcdn.com/mx.svg",
+    "region": "Americas",
+    "subregion": "North America",
+    "latlng": [
+      23,
+      -102
+    ]
+  },
+  {
+    "name": "Micronesia (Federated States of)",
+    "capital": "Palikir",
+    "population": 115021,
+    "flag": "https://flagcdn.com/fm.svg",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "latlng": [
+      6.91666666,
+      158.25
+    ]
+  },
+  {
+    "name": "Moldova (Republic of)",
+    "capital": "Chișinău",
+    "population": 2617820,
+    "flag": "https://flagcdn.com/md.svg",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [
+      47,
+      29
+    ]
+  },
+  {
+    "name": "Monaco",
+    "capital": "Monaco",
+    "population": 39244,
+    "flag": "https://flagcdn.com/mc.svg",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "latlng": [
+      43.73333333,
+      7.4
+    ]
+  },
+  {
+    "name": "Mongolia",
+    "capital": "Ulan Bator",
+    "population": 3278292,
+    "flag": "https://flagcdn.com/mn.svg",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "latlng": [
+      46,
+      105
+    ]
+  },
+  {
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "population": 621718,
+    "flag": "https://flagcdn.com/me.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      42.5,
+      19.3
+    ]
+  },
+  {
+    "name": "Montserrat",
+    "capital": "Plymouth",
+    "population": 4922,
+    "flag": "https://flagcdn.com/ms.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      16.75,
+      -62.2
+    ]
+  },
+  {
+    "name": "Morocco",
+    "capital": "Rabat",
+    "population": 36910558,
+    "flag": "https://flagcdn.com/ma.svg",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "latlng": [
+      32,
+      -5
+    ]
+  },
+  {
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "population": 31255435,
+    "flag": "https://flagcdn.com/mz.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      -18.25,
+      35
+    ]
+  },
+  {
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "population": 54409794,
+    "flag": "https://flagcdn.com/mm.svg",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [
+      22,
+      98
+    ]
+  },
+  {
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "population": 2540916,
+    "flag": "https://flagcdn.com/na.svg",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "latlng": [
+      -22,
+      17
+    ]
+  },
+  {
+    "name": "Nauru",
+    "capital": "Yaren",
+    "population": 10834,
+    "flag": "https://flagcdn.com/nr.svg",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "latlng": [
+      -0.53333333,
+      166.91666666
+    ]
+  },
+  {
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "population": 29136808,
+    "flag": "https://flagcdn.com/np.svg",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [
+      28,
+      84
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "population": 17441139,
+    "flag": "https://flagcdn.com/nl.svg",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "latlng": [
+      52.5,
+      5.75
+    ]
+  },
+  {
+    "name": "New Caledonia",
+    "capital": "Nouméa",
+    "population": 271960,
+    "flag": "https://flagcdn.com/nc.svg",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "latlng": [
+      -21.5,
+      165.5
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "population": 5084300,
+    "flag": "https://flagcdn.com/nz.svg",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "latlng": [
+      -41,
+      174
+    ]
+  },
+  {
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "population": 6624554,
+    "flag": "https://flagcdn.com/ni.svg",
+    "region": "Americas",
+    "subregion": "Central America",
+    "latlng": [
+      13,
+      -85
+    ]
+  },
+  {
+    "name": "Niger",
+    "capital": "Niamey",
+    "population": 24206636,
+    "flag": "https://flagcdn.com/ne.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      16,
+      8
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "population": 206139587,
+    "flag": "https://flagcdn.com/ng.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      10,
+      8
+    ]
+  },
+  {
+    "name": "Niue",
+    "capital": "Alofi",
+    "population": 1470,
+    "flag": "https://flagcdn.com/nu.svg",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [
+      -19.03333333,
+      -169.86666666
+    ]
+  },
+  {
+    "name": "Norfolk Island",
+    "capital": "Kingston",
+    "population": 2302,
+    "flag": "https://flagcdn.com/nf.svg",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "latlng": [
+      -29.03333333,
+      167.95
+    ]
+  },
+  {
+    "name": "Korea (Democratic People's Republic of)",
+    "capital": "Pyongyang",
+    "population": 25778815,
+    "flag": "https://flagcdn.com/kp.svg",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "latlng": [
+      40,
+      127
+    ]
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "capital": "Saipan",
+    "population": 57557,
+    "flag": "https://flagcdn.com/mp.svg",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "latlng": [
+      15.2,
+      145.75
+    ]
+  },
+  {
+    "name": "Norway",
+    "capital": "Oslo",
+    "population": 5379475,
+    "flag": "https://flagcdn.com/no.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      62,
+      10
+    ]
+  },
+  {
+    "name": "Oman",
+    "capital": "Muscat",
+    "population": 5106622,
+    "flag": "https://flagcdn.com/om.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      21,
+      57
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "population": 220892331,
+    "flag": "https://flagcdn.com/pk.svg",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [
+      30,
+      70
+    ]
+  },
+  {
+    "name": "Palau",
+    "capital": "Ngerulmud",
+    "population": 18092,
+    "flag": "https://flagcdn.com/pw.svg",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "latlng": [
+      7.5,
+      134.5
+    ]
+  },
+  {
+    "name": "Palestine, State of",
+    "capital": "Ramallah",
+    "population": 4803269,
+    "flag": "https://flagcdn.com/ps.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      31.9,
+      35.2
+    ]
+  },
+  {
+    "name": "Panama",
+    "capital": "Panama City",
+    "population": 4314768,
+    "flag": "https://flagcdn.com/pa.svg",
+    "region": "Americas",
+    "subregion": "Central America",
+    "latlng": [
+      9,
+      -80
+    ]
+  },
+  {
+    "name": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "population": 8947027,
+    "flag": "https://flagcdn.com/pg.svg",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "latlng": [
+      -6,
+      147
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "population": 7132530,
+    "flag": "https://flagcdn.com/py.svg",
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [
+      -23,
+      -58
+    ]
+  },
+  {
+    "name": "Peru",
+    "capital": "Lima",
+    "population": 32971846,
+    "flag": "https://flagcdn.com/pe.svg",
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [
+      -10,
+      -76
+    ]
+  },
+  {
+    "name": "Philippines",
+    "capital": "Manila",
+    "population": 109581085,
+    "flag": "https://flagcdn.com/ph.svg",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [
+      13,
+      122
+    ]
+  },
+  {
+    "name": "Pitcairn",
+    "capital": "Adamstown",
+    "population": 56,
+    "flag": "https://flagcdn.com/pn.svg",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [
+      -25.06666666,
+      -130.1
+    ]
+  },
+  {
+    "name": "Poland",
+    "capital": "Warsaw",
+    "population": 37950802,
+    "flag": "https://flagcdn.com/pl.svg",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "latlng": [
+      52,
+      20
+    ]
+  },
+  {
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "population": 10305564,
+    "flag": "https://flagcdn.com/pt.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      39.5,
+      -8
+    ]
+  },
+  {
+    "name": "Puerto Rico",
+    "capital": "San Juan",
+    "population": 3194034,
+    "flag": "https://flagcdn.com/pr.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      18.25,
+      -66.5
+    ]
+  },
+  {
+    "name": "Qatar",
+    "capital": "Doha",
+    "population": 2881060,
+    "flag": "https://flagcdn.com/qa.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      25.5,
+      51.25
+    ]
+  },
+  {
+    "name": "Republic of Kosovo",
+    "capital": "Pristina",
+    "population": 1775378,
+    "flag": "https://flagcdn.com/xk.svg",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [
+      42.666667,
+      21.166667
+    ]
+  },
+  {
+    "name": "Réunion",
+    "capital": "Saint-Denis",
+    "population": 840974,
+    "flag": "https://flagcdn.com/re.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      -21.15,
+      55.5
+    ]
+  },
+  {
+    "name": "Romania",
+    "capital": "Bucharest",
+    "population": 19286123,
+    "flag": "https://flagcdn.com/ro.svg",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [
+      46,
+      25
+    ]
+  },
+  {
+    "name": "Russian Federation",
+    "capital": "Moscow",
+    "population": 144104080,
+    "flag": "https://flagcdn.com/ru.svg",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [
+      60,
+      100
+    ]
+  },
+  {
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "population": 12952209,
+    "flag": "https://flagcdn.com/rw.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      -2,
+      30
+    ]
+  },
+  {
+    "name": "Saint Barthélemy",
+    "capital": "Gustavia",
+    "population": 9417,
+    "flag": "https://flagcdn.com/bl.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      18.5,
+      -63.41666666
+    ]
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "capital": "Jamestown",
+    "population": 4255,
+    "flag": "https://flagcdn.com/sh.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      -15.95,
+      -5.7
+    ]
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "population": 53192,
+    "flag": "https://flagcdn.com/kn.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      17.33333333,
+      -62.75
+    ]
+  },
+  {
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "population": 183629,
+    "flag": "https://flagcdn.com/lc.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      13.88333333,
+      -60.96666666
+    ]
+  },
+  {
+    "name": "Saint Martin (French part)",
+    "capital": "Marigot",
+    "population": 38659,
+    "flag": "https://flagcdn.com/mf.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      18.08333333,
+      -63.95
+    ]
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "capital": "Saint-Pierre",
+    "population": 6069,
+    "flag": "https://flagcdn.com/pm.svg",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "latlng": [
+      46.83333333,
+      -56.33333333
+    ]
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "population": 110947,
+    "flag": "https://flagcdn.com/vc.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      13.25,
+      -61.2
+    ]
+  },
+  {
+    "name": "Samoa",
+    "capital": "Apia",
+    "population": 198410,
+    "flag": "https://flagcdn.com/ws.svg",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [
+      -13.58333333,
+      -172.33333333
+    ]
+  },
+  {
+    "name": "San Marino",
+    "capital": "City of San Marino",
+    "population": 33938,
+    "flag": "https://flagcdn.com/sm.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      43.76666666,
+      12.41666666
+    ]
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "capital": "São Tomé",
+    "population": 219161,
+    "flag": "https://flagcdn.com/st.svg",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [
+      1,
+      7
+    ]
+  },
+  {
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": 34813867,
+    "flag": "https://flagcdn.com/sa.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      25,
+      45
+    ]
+  },
+  {
+    "name": "Senegal",
+    "capital": "Dakar",
+    "population": 16743930,
+    "flag": "https://flagcdn.com/sn.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      14,
+      -14
+    ]
+  },
+  {
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "population": 6908224,
+    "flag": "https://flagcdn.com/rs.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      44,
+      21
+    ]
+  },
+  {
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "population": 98462,
+    "flag": "https://flagcdn.com/sc.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      -4.58333333,
+      55.66666666
+    ]
+  },
+  {
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "population": 7976985,
+    "flag": "https://flagcdn.com/sl.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      8.5,
+      -11.5
+    ]
+  },
+  {
+    "name": "Singapore",
+    "capital": "Singapore",
+    "population": 5685807,
+    "flag": "https://flagcdn.com/sg.svg",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [
+      1.36666666,
+      103.8
+    ]
+  },
+  {
+    "name": "Sint Maarten (Dutch part)",
+    "capital": "Philipsburg",
+    "population": 40812,
+    "flag": "https://flagcdn.com/sx.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      18.033333,
+      -63.05
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "population": 5458827,
+    "flag": "https://flagcdn.com/sk.svg",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "latlng": [
+      48.66666666,
+      19.5
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "population": 2100126,
+    "flag": "https://flagcdn.com/si.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      46.11666666,
+      14.81666666
+    ]
+  },
+  {
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "population": 686878,
+    "flag": "https://flagcdn.com/sb.svg",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "latlng": [
+      -8,
+      159
+    ]
+  },
+  {
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "population": 15893219,
+    "flag": "https://flagcdn.com/so.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      10,
+      49
+    ]
+  },
+  {
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "population": 59308690,
+    "flag": "https://flagcdn.com/za.svg",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "latlng": [
+      -29,
+      24
+    ]
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "capital": "King Edward Point",
+    "population": 30,
+    "flag": "https://flagcdn.com/gs.svg",
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [
+      -54.5,
+      -37
+    ]
+  },
+  {
+    "name": "Korea (Republic of)",
+    "capital": "Seoul",
+    "population": 51780579,
+    "flag": "https://flagcdn.com/kr.svg",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "latlng": [
+      37,
+      127.5
+    ]
+  },
+  {
+    "name": "Spain",
+    "capital": "Madrid",
+    "population": 47351567,
+    "flag": "https://flagcdn.com/es.svg",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [
+      40,
+      -4
+    ]
+  },
+  {
+    "name": "Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "population": 21919000,
+    "flag": "https://flagcdn.com/lk.svg",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [
+      7,
+      81
+    ]
+  },
+  {
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "population": 43849269,
+    "flag": "https://flagcdn.com/sd.svg",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "latlng": [
+      15,
+      30
+    ]
+  },
+  {
+    "name": "South Sudan",
+    "capital": "Juba",
+    "population": 11193729,
+    "flag": "https://flagcdn.com/ss.svg",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [
+      7,
+      30
+    ]
+  },
+  {
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "population": 586634,
+    "flag": "https://flagcdn.com/sr.svg",
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [
+      4,
+      -56
+    ]
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "capital": "Longyearbyen",
+    "population": 2562,
+    "flag": "https://flagcdn.com/sj.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      78,
+      20
+    ]
+  },
+  {
+    "name": "Swaziland",
+    "capital": "Mbabane",
+    "population": 1160164,
+    "flag": "https://flagcdn.com/sz.svg",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "latlng": [
+      -26.5,
+      31.5
+    ]
+  },
+  {
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "population": 10353442,
+    "flag": "https://flagcdn.com/se.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      62,
+      15
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "capital": "Bern",
+    "population": 8636896,
+    "flag": "https://flagcdn.com/ch.svg",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "latlng": [
+      47,
+      8
+    ]
+  },
+  {
+    "name": "Syrian Arab Republic",
+    "capital": "Damascus",
+    "population": 17500657,
+    "flag": "https://flagcdn.com/sy.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      35,
+      38
+    ]
+  },
+  {
+    "name": "Taiwan",
+    "capital": "Taipei",
+    "population": 23503349,
+    "flag": "https://flagcdn.com/tw.svg",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "latlng": [
+      23.5,
+      121
+    ]
+  },
+  {
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "population": 9537642,
+    "flag": "https://flagcdn.com/tj.svg",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "latlng": [
+      39,
+      71
+    ]
+  },
+  {
+    "name": "Tanzania, United Republic of",
+    "capital": "Dodoma",
+    "population": 59734213,
+    "flag": "https://flagcdn.com/tz.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      -6,
+      35
+    ]
+  },
+  {
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "population": 69799978,
+    "flag": "https://flagcdn.com/th.svg",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [
+      15,
+      100
+    ]
+  },
+  {
+    "name": "Timor-Leste",
+    "capital": "Dili",
+    "population": 1318442,
+    "flag": "https://flagcdn.com/tl.svg",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [
+      -8.83333333,
+      125.91666666
+    ]
+  },
+  {
+    "name": "Togo",
+    "capital": "Lomé",
+    "population": 8278737,
+    "flag": "https://flagcdn.com/tg.svg",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [
+      8,
+      1.16666666
+    ]
+  },
+  {
+    "name": "Tokelau",
+    "capital": "Fakaofo",
+    "population": 1411,
+    "flag": "https://flagcdn.com/tk.svg",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [
+      -9,
+      -172
+    ]
+  },
+  {
+    "name": "Tonga",
+    "capital": "Nuku'alofa",
+    "population": 105697,
+    "flag": "https://flagcdn.com/to.svg",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [
+      -20,
+      -175
+    ]
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "population": 1399491,
+    "flag": "https://flagcdn.com/tt.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      11,
+      -61
+    ]
+  },
+  {
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "population": 11818618,
+    "flag": "https://flagcdn.com/tn.svg",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "latlng": [
+      34,
+      9
+    ]
+  },
+  {
+    "name": "Turkey",
+    "capital": "Ankara",
+    "population": 84339067,
+    "flag": "https://flagcdn.com/tr.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      39,
+      35
+    ]
+  },
+  {
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "population": 6031187,
+    "flag": "https://flagcdn.com/tm.svg",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "latlng": [
+      40,
+      60
+    ]
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "population": 38718,
+    "flag": "https://flagcdn.com/tc.svg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [
+      21.75,
+      -71.58333333
+    ]
+  },
+  {
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "population": 11792,
+    "flag": "https://flagcdn.com/tv.svg",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [
+      -8,
+      178
+    ]
+  },
+  {
+    "name": "Uganda",
+    "capital": "Kampala",
+    "population": 45741000,
+    "flag": "https://flagcdn.com/ug.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      1,
+      32
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "population": 44134693,
+    "flag": "https://flagcdn.com/ua.svg",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [
+      49,
+      32
+    ]
+  },
+  {
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "population": 9890400,
+    "flag": "https://flagcdn.com/ae.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      24,
+      54
+    ]
+  },
+  {
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "capital": "London",
+    "population": 67215293,
+    "flag": "https://flagcdn.com/gb.svg",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [
+      54,
+      -2
+    ]
+  },
+  {
+    "name": "United States of America",
+    "capital": "Washington, D.C.",
+    "population": 329484123,
+    "flag": "https://flagcdn.com/us.svg",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "latlng": [
+      38,
+      -97
+    ]
+  },
+  {
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "population": 3473727,
+    "flag": "https://flagcdn.com/uy.svg",
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [
+      -33,
+      -56
+    ]
+  },
+  {
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "population": 34232050,
+    "flag": "https://flagcdn.com/uz.svg",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "latlng": [
+      41,
+      64
+    ]
+  },
+  {
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "population": 307150,
+    "flag": "https://flagcdn.com/vu.svg",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "latlng": [
+      -16,
+      167
+    ]
+  },
+  {
+    "name": "Venezuela (Bolivarian Republic of)",
+    "capital": "Caracas",
+    "population": 28435943,
+    "flag": "https://flagcdn.com/ve.svg",
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [
+      8,
+      -66
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "population": 97338583,
+    "flag": "https://flagcdn.com/vn.svg",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [
+      16.16666666,
+      107.83333333
+    ]
+  },
+  {
+    "name": "Wallis and Futuna",
+    "capital": "Mata-Utu",
+    "population": 11750,
+    "flag": "https://flagcdn.com/wf.svg",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [
+      -13.3,
+      -176.2
+    ]
+  },
+  {
+    "name": "Western Sahara",
+    "capital": "El Aaiún",
+    "population": 510713,
+    "flag": "https://flagcdn.com/eh.svg",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "latlng": [
+      24.5,
+      -13
+    ]
+  },
+  {
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "population": 29825968,
+    "flag": "https://flagcdn.com/ye.svg",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [
+      15,
+      48
+    ]
+  },
+  {
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "population": 18383956,
+    "flag": "https://flagcdn.com/zm.svg",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [
+      -15,
+      30
+    ]
+  },
+  {
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "population": 14862927,
+    "flag": "https://flagcdn.com/zw.svg",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "latlng": [
+      -20,
+      30
+    ]
+  }
+]

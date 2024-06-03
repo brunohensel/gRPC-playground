@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+package dev.brunohensel.country;
+
+// Import the pre-defined Empty message
+import "google/protobuf/empty.proto";
+
+message Country {
+  string name = 1;
+  string capital = 2;
+  string flag = 3;
+  string region = 4;
+  string subregion = 5;
+  int64 population = 6; // Use int64 for large numbers like population
+  repeated float latlng = 7; // repeated keyword for lists
+}
+
+message CountryResponse {
+  repeated Country countries = 1;
+}
+
+service GetCountriesService {
+  rpc GetCountries(google.protobuf.Empty) returns (CountryResponse);
+}
