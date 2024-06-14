@@ -1,10 +1,14 @@
 package dev.brunohensel.app.network
 
+import dev.brunohensel.country.Pagination
 import kotlinx.serialization.Serializable
 import kotlin.time.Duration
 
 fun interface CountriesRequest {
     suspend fun getCountries(): WrappedCountry
+    suspend fun getCountries(pagination: Pagination): WrappedCountry {
+        return getCountries()
+    }
 }
 
 data class WrappedCountry(

@@ -3,12 +3,16 @@ package dev.brunohensel.misk
 import dev.brunohensel.country.Country
 import dev.brunohensel.country.CountryResponse
 import dev.brunohensel.country.GetCountriesServiceGetCountriesBlockingServer
+import dev.brunohensel.country.GetCountriesServiceGetPagedCountriesBlockingServer
+import dev.brunohensel.country.Pagination
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
 import misk.web.actions.WebAction
 import java.io.File
 
-class CountryGRpcAction : WebAction, GetCountriesServiceGetCountriesBlockingServer {
+class CountryGRpcAction : WebAction,
+    GetCountriesServiceGetCountriesBlockingServer,
+    GetCountriesServiceGetPagedCountriesBlockingServer {
 
     private val countries: List<CountryDTO>
         get() = getCountriesList()
@@ -27,6 +31,23 @@ class CountryGRpcAction : WebAction, GetCountriesServiceGetCountriesBlockingServ
         }
 
         return CountryResponse(countries)
+    }
+
+    override fun GetPagedCountries(request: Pagination): CountryResponse {
+        val take = request.page.times(request.per_page).coerceAtLeast(20)
+
+        val countries = countries.take(take).map { dto ->
+            Country(
+                name = dto.name,
+                capital = dto.capital,
+                flag = dto.flag,
+                region = dto.region,
+                subregion = dto.subregion,
+                population = dto.population,
+                latlng = dto.latlng,
+            )
+        }
+        return CountryResponse(countries.take(take))
     }
 
     private var cacheCountries: List<CountryDTO> = emptyList()

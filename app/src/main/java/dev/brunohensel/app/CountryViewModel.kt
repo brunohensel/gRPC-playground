@@ -7,6 +7,7 @@ import dev.brunohensel.app.network.CountriesRequest
 import dev.brunohensel.app.network.Country
 import dev.brunohensel.app.network.gRpc.GRpcCountriesRequest
 import dev.brunohensel.app.network.rest.KtorCountriesRequest
+import dev.brunohensel.country.Pagination
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -20,6 +21,12 @@ class CountryViewModel(
 
     private val _state = MutableStateFlow(State())
     val state: StateFlow<State> = _state.asStateFlow()
+    private val page: (ProtocolType) -> Int = sourcePage()
+    fun loadMore() {
+        val type = state.value.protocolType
+        checkNotNull(type) { "Type must not be null" }
+        getCountries(type)
+    }
 
     fun getCountries(protocolOption: ProtocolType) {
         val source = when (protocolOption) {
@@ -27,13 +34,26 @@ class CountryViewModel(
             ProtocolType.GRPC -> countryGRpcRequest
         }
         viewModelScope.launch {
-            val wrappedCountry = source.getCountries()
+            val pagination = Pagination(per_page = 20, page = page(protocolOption))
+            val wrappedCountry = source.getCountries(pagination)
             _state.update { oldState ->
                 oldState.copy(
                     countries = wrappedCountry.countries,
                     restDurationStr = if (protocolOption == ProtocolType.REST) "${wrappedCountry.serialisationDuration}" else oldState.restDurationStr,
                     gRPCDurationStr = if (protocolOption == ProtocolType.GRPC) "${wrappedCountry.serialisationDuration}" else oldState.gRPCDurationStr,
+                    protocolType = protocolOption,
                 )
+            }
+        }
+    }
+
+    private fun sourcePage(): (ProtocolType) -> Int {
+        var gRPCPage = 0
+        var restPage = 0
+        return { type ->
+            when (type) {
+                ProtocolType.REST -> ++restPage
+                ProtocolType.GRPC -> ++gRPCPage
             }
         }
     }
@@ -42,6 +62,7 @@ class CountryViewModel(
         val countries: List<Country> = emptyList(),
         val restDurationStr: String = "",
         val gRPCDurationStr: String = "",
+        val protocolType: ProtocolType? = null
     )
 
     companion object {

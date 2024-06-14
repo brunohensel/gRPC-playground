@@ -19,6 +19,12 @@ message CountryResponse {
   repeated Country countries = 1;
 }
 
+message Pagination {
+  int32 page = 1;
+  int32 per_page = 2;
+}
+
 service GetCountriesService {
   rpc GetCountries(google.protobuf.Empty) returns (CountryResponse);
+  rpc GetPagedCountries(Pagination) returns (CountryResponse);
 }

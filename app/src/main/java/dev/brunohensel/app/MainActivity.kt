@@ -59,7 +59,11 @@ class MainActivity : ComponentActivity() {
                         ) { option ->
                             viewModel.getCountries(option)
                         }
-                        CountryScreen(state.countries, Modifier.padding(innerPadding))
+                        CountryScreen(
+                            state.countries,
+                            Modifier.padding(innerPadding),
+                            onLoadMore = { viewModel.loadMore() }
+                        )
                     }
                 }
             }

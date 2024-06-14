@@ -12,11 +12,16 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.derivedStateOf
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
@@ -30,8 +35,25 @@ import dev.brunohensel.app.network.Country
 fun CountryScreen(
     countries: List<Country>,
     modifier: Modifier = Modifier,
+    onLoadMore: () -> Unit,
 ) {
-    LazyColumn(modifier = modifier) {
+    val listState = rememberLazyListState()
+
+    val bottom: Boolean by remember {
+        derivedStateOf {
+            val lastVisibleItem = listState.layoutInfo.visibleItemsInfo.lastOrNull()
+            lastVisibleItem?.index != 0 && lastVisibleItem?.index == listState.layoutInfo.totalItemsCount / 2
+        }
+    }
+
+    LaunchedEffect(bottom) {
+        if (bottom) onLoadMore()
+    }
+
+    LazyColumn(
+        modifier = modifier,
+        state = listState
+    ) {
         items(countries, key = { country -> country.name }) { country ->
             CountryComponent(country = country)
             Spacer(modifier = Modifier.height(4.dp))
